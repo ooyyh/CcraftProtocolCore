@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(javac -d out -encoding UTF-8 src/Main.java src/client/*.java src/network/*.java src/protocol/*.java src/protocol/packets/*/*.java src/crypto/*.java src/examples/*.java)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

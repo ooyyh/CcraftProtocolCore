@@ -197,4 +197,5 @@ else if (packet instanceof MyCustomPacket) {
 ## 参考资料
 
 - [Minecraft Protocol Wiki](https://wiki.vg/Protocol)
+- [Minecraft wiki](https://minecraft.wiki/w/Java_Edition_protocol/Packets)
 - [Minecraft 1.8.9 Protocol Documentation](https://wiki.vg/index.php?title=Protocol&oldid=7368)
